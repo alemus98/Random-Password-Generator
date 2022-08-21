@@ -8,9 +8,6 @@ In order to generate a new password, the user must first select the red "Generat
 
 ![Random Password Generator](./pictures/Screenshot%202022-08-20%20222336.png)
 
-![Prompts](./pictures/Screenshot%202022-08-20%20223033.png)
-
-
 Once pressed, a pop-up window will show on screen asking the user a series of prompts for the purpose of customizing the password. 
 
 ![Prompts](./pictures/Screenshot%202022-08-20%20223033.png)
